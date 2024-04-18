@@ -52,7 +52,7 @@ let myGames = [
     category: "RPG",
     releasYear: "2011",
     platform: "PC",
-    image: "img/skyrim.png",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
   },
 
   {
@@ -60,7 +60,7 @@ let myGames = [
     category: "Simulator",
     releasYear: "2021",
     platform: "PC",
-    image: "img/FS22.png",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Farming_Simulator_Logo.png/250px-Farming_Simulator_Logo.png",
   },
 
   {
@@ -68,7 +68,7 @@ let myGames = [
     category: "RPG, Survival",
     releasYear: "2018",
     platform: "PC",
-    image: "img/Conan_Exiles.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Conan_Exiles_Game_Cover.jpg/220px-Conan_Exiles_Game_Cover.jpg",
   },
 
   {
@@ -76,7 +76,7 @@ let myGames = [
     category: "FPS",
     releasYear: "2023",
     platform: "PC",
-    image: "img/CS2.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/CS2_Cover_Art.jpg/220px-CS2_Cover_Art.jpg",
   },
 
   
